@@ -5,7 +5,11 @@ Some Pygame simple utils to works with texts and menu options
 ## ✨ Features
 
 - Simple menu actions
-- Edit texts (text input) using clipboard and selection options
+- Edit texts (text input)
+- Select texts to delete/replace/copy (Shift+Cursor)
+- Using clipboard (Ctrl+C / Cntr+V)
+- Work with very long texts (for one line texts)
+- Control allowed characters
 
 ## 🚀 Quick Start
 
