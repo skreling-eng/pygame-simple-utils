@@ -20,8 +20,9 @@ pip install -r requirements.txt
 ## 💡 Usage Examples
 
 1. Menu
-   
+   ![Menu]([http://url/to/img.png](https://github.com/skreling-eng/pygame-simple-utils/blob/main/example.png?raw=true))
 2. Edit texts
+   ![Menu]([http://url/to/img.png](https://github.com/skreling-eng/pygame-simple-utils/blob/main/example.png?raw=true))
     
 
 ## Contributing
