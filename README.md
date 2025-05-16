@@ -16,6 +16,10 @@ cd pugame-simple-utils
 pip install -r requirements.txt
 ```
 
+2. Run test.py
+```
+python3 text.py
+```
 
 ## 💡 Usage Examples
 
