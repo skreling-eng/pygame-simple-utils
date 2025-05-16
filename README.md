@@ -5,7 +5,7 @@ Some Pygame simple utils to works with texts and menu options
 ## ✨ Features
 
 - Simple menu actions
-- Edit texts using clipboard and selection options
+- Edit texts (text input) using clipboard and selection options
 
 ## 🚀 Quick Start
 
@@ -16,12 +16,17 @@ cd pugame-simple-utils
 pip install -r requirements.txt
 ```
 
+2. Run test.py
+```
+python3 text.py
+```
 
 ## 💡 Usage Examples
 
 1. Menu
-   
+   ![image](https://github.com/skreling-eng/pygame-simple-utils/blob/main/example.png?raw=true)
 2. Edit texts
+   ![image](https://github.com/skreling-eng/pygame-simple-utils/blob/main/example2.png?raw=true)
     
 
 ## Contributing
